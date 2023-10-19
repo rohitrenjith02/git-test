@@ -1,0 +1,22 @@
+body{
+    background-color: lightgreen;
+}
+table{
+    background-color: lightblue;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    border: 1px solid darkblue;
+    padding: 8px;
+}
+th{
+    font-weight:bold;
+}
+img{
+    height:300px;
+    width:300px;
+}
+   
